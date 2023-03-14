@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ввод данных", "Ввод данных\Ввод данных.csproj", "{BA1DCC73-3AA4-4F44-942D-E2D15856AC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1DCC73-3AA4-4F44-942D-E2D15856AC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1DCC73-3AA4-4F44-942D-E2D15856AC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1DCC73-3AA4-4F44-942D-E2D15856AC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1DCC73-3AA4-4F44-942D-E2D15856AC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3393D5A6-BBC0-42F7-BD0F-0930D9A843C6}
+	EndGlobalSection
+EndGlobal
